@@ -4,7 +4,7 @@
 
 ## Содержание
 
-- [Домашнее задание 1: EDA (Исследовательский анализ данных) + K-means clustering]([#домашнее-задание-1-eda-исследовательский-анализ-данных--k-means-clustering](https://github.com/GitSanyaHub/Business-Data-Analysis/tree/main/HW-1))
+- [Домашнее задание 1: EDA (Исследовательский анализ данных) + K-means clustering](https://github.com/GitSanyaHub/Business-Data-Analysis/tree/main/HW-1)
 - [Домашнее задание 2: Построение заявочной скоринговой модели](#TODO)
 
 
